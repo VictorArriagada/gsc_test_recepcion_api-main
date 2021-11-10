@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Otros\_Publicar\TestRecepcionApi</_PublishTargetUrl>
+    <History>True|2021-11-02T14:51:58.7052916Z;True|2021-11-02T11:47:41.1033258-03:00;True|2021-11-02T11:40:00.5750897-03:00;True|2021-11-02T11:03:53.0188590-03:00;</History>
+  </PropertyGroup>
+</Project>
